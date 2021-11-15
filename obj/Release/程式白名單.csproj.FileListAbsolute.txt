@@ -1,0 +1,12 @@
+D:\my create program\程式白名單\程式白名單\bin\Release\Database1.mdf
+D:\my create program\程式白名單\程式白名單\bin\Release\Database1_log.ldf
+D:\my create program\程式白名單\程式白名單\bin\Release\程式白名單.exe.config
+D:\my create program\程式白名單\程式白名單\bin\Release\程式白名單.exe
+D:\my create program\程式白名單\程式白名單\bin\Release\程式白名單.pdb
+D:\my create program\程式白名單\程式白名單\obj\Release\程式白名單.csproj.AssemblyReference.cache
+D:\my create program\程式白名單\程式白名單\obj\Release\程式白名單.Form1.resources
+D:\my create program\程式白名單\程式白名單\obj\Release\程式白名單.Properties.Resources.resources
+D:\my create program\程式白名單\程式白名單\obj\Release\程式白名單.csproj.GenerateResource.cache
+D:\my create program\程式白名單\程式白名單\obj\Release\程式白名單.csproj.CoreCompileInputs.cache
+D:\my create program\程式白名單\程式白名單\obj\Release\程式白名單.exe
+D:\my create program\程式白名單\程式白名單\obj\Release\程式白名單.pdb

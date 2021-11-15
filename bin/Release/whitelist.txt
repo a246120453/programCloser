@@ -1,0 +1,8 @@
+Discord
+devenv
+Discord         locked
+devenv         locked
+msedge
+devenv         locked
+Discord         locked
+msedge         locked
